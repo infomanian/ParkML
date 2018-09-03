@@ -1,0 +1,1 @@
+include ':app', ':generocityframework-debug2', ':generocityframework-debug.2'
